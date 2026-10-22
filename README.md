@@ -151,3 +151,8 @@ Fonts: [Montserrat](https://github.com/JulietaUla/Montserrat), SIL Open Font Lic
 8. Street address (for the Contact card and map), if you want one public.
 9. Confirm rights to the stock photos inside the design PDF.
 10. Custom domain: not configured on purpose; decide before pointing swiftlaundryservices.com here.
+
+## Author / Credits
+
+Designed and developed by **Innocent Christo** for Swift Laundry Services.  
+© 2026 Innocent Christo. See `humans.txt`.
